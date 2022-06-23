@@ -106,7 +106,7 @@ const Login = styled.div`
   padding: 8px 16px;
   border-radius: 4px;
   letter-spacing: 1.5px;
-  transitio: all 0.2w ease 0s;
+  transition: all 0.2w ease 0s;
   &:hover {
     background: rgb(198, 198, 198);
 
@@ -124,7 +124,7 @@ const Nav = styled.nav`
   height: 60px;
   background: #141515;
   display: flex;
-  ovwrflow-x: hidden;
+  overflow-x: hidden;
   align-items: center;
   cursor: pointer;
 `;

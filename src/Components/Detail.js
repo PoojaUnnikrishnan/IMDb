@@ -87,7 +87,7 @@ const Background = styled.div`
   img {
     width: 100%;
     height: 100%;
-    ob
+  }
 `;
 const ImageTitle = styled.div`
   height: 30vh;
