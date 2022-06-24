@@ -124,9 +124,10 @@ const Nav = styled.nav`
   height: 60px;
   background: #141515;
   display: flex;
-  overflow-x: hidden;
   align-items: center;
-  cursor: pointer;
+  position: sticky;
+  top: 0px;
+  z-index: 1000;
 `;
 const Logo = styled.img`
   height: 30px;
